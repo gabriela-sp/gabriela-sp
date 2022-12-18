@@ -13,6 +13,7 @@
   <img align="center" alt="Gabi-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gabi-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Gabi-GitHub" height="40" width="50" src="https://img.icons8.com/color-glass/96/null/github--v2.png">
   <img align="center" alt="Gabi-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/120505949/207442279-7a0c9bd0-2e20-4d62-9c07-05c4b92d7edf.png">
 </div>
